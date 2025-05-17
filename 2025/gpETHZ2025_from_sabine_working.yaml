@@ -1,0 +1,16 @@
+name: gpETHZ2025_S
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - pip
+  - gdal
+  - psycopg2
+  - psycopg2-binary
+  - shapely
+  - fiona
+  - rasterio
+  - geopandas
+  - folium
+  - leafmap
+  - jupyter
